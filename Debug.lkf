@@ -1,0 +1,7 @@
+-z -c -heap800 -o"./Debug/Read_Bmp.out" -stack800 -w -x -i"C:/CCStudio_v3.1/C6000/rtdx/lib" -i"C:/CCStudio_v3.1/C6000/csl/lib" -i"C:/CCStudio_v3.1/C6000/xdais/lib" -i"C:/CCStudio_v3.1/C6000/bios/lib" -i"C:/CCStudio_v3.1/C6000/cgtools/lib"
+"Z:\user\OCR\C6416.cmd"
+"Z:\user\OCR\Debug\main.obj"
+"C:\CCStudio_v3.1\C6000\cgtools\lib\rts6400.lib"
+"C:\CCStudio_v3.1\C6000\csl\lib\csl6416.lib"
+"C:\CCStudio_v3.1\C6000\dsk6416\lib\dsk6416bsl.lib"
+"C:\CCStudio_v3.1\c6400\dsplib\lib\dsp64x.lib"
